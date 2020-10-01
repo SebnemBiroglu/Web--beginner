@@ -1,0 +1,143 @@
+body {
+
+	background: white;
+	margin: 0;
+}
+
+.container {
+	width: 780px;
+	margin: 0 auto;
+	background: #fffff0;
+	box-shadow: 0px 1px 1px 1px;
+	color: grey;
+}
+
+header {
+	padding: 40px 0 20px 350px;
+
+}
+
+.link-title {
+	text-decoration: none;
+	font-size:24px;
+	color: brown;
+}
+
+#image{
+	width: 400px;
+	padding: 20px;
+}
+.menu {
+	background: #dacbc7;
+	padding: 4px 0 4px 2px;
+}
+
+.menu a {
+	color: #fffff0;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: "Arial Narrow"; 
+}
+
+aside {
+
+float: left;
+width: 120px;
+padding: 40px 0 0 50px;
+
+} 
+
+h1{
+
+	margin: 0px;
+	color: #dacbc7;
+	font-size: 24px;
+	font-family: "Arial Narrow";
+	font-weight: normal;
+
+}
+
+p {
+
+	color: #504745;
+	font-size: 15px;
+	margin: 20px 0 5px 0;
+
+}
+
+.main {
+
+	margin: 0 0 0 180px;
+	padding: 15px 40px 30px 0; 
+	color: #444444;
+	font-family: "Georgia";
+	font-size: 13px;
+	line-height: 20px;
+	text-emphasis: justify;
+	}
+
+.main a: hover {
+	color: grey;
+}
+
+footer {
+
+	padding: 6px 40px 6px 40px;
+	color: black;
+	background: #d6d6d6;
+	font-family: Lucida Sans Unicode;
+}
+
+footer a{
+
+	text-decoration: none;
+	color: black;
+}
+
+.seperator {
+	color: black;
+	font-size: 11px;
+}
+
+
+#about-page #image img {
+	width: 70%;
+	float: left;
+
+}
+
+#about-page #profile-info {
+
+float: right;
+width: 30%: 
+margin: 5px; 
+
+}
+
+#about-page .description {
+	clear: both;
+}
+
+#contact #form {
+	width: 38xs0px;
+	padding: 10px 10px 10px 10px;
+	margin: 0 auto;
+}
+
+#contact #form input {
+	width: 200px;
+	border-radius: 15px;
+	height: 20px;
+	background: white;
+}
+
+#contact #form #message {
+	width: 100%;
+	border-radius: 5px;
+	background: white;
+}
+
+#contact #form #submit {
+	height: 30px;
+	background: rgb(59, 118, 135);
+}
